@@ -117,4 +117,23 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="TextBox5.Text" xml:space="preserve">
+    <value>Notes
+
+f to c
+5/9 * ( f - 32) = answer
+
+f to k
+5/9 * ( f - 32) + 273.15 = answer
+
+Q = m * c * ΔT
+L water steam = 2.260.000 J/kg
+
+m = 2kg
+c = 4186 j/kgC
+Ts = 50c
+T; = 20c
+ΔT = 30c
+Q = 251,160j</value>
+  </data>
 </root>
